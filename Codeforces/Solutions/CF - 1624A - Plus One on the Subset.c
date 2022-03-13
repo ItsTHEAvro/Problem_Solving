@@ -1,4 +1,4 @@
-//149086190	Mar/10/2022 19:38UTC+6	ItsTHEAvro	1624A - Plus One on the Subset	GNU C11	Accepted	124 ms	0 KB
+//149086190 	Mar/10/2022 19:38UTC+6 	ItsTHEAvro 	1624A - Plus One on the Subset 	GNU C11 	Accepted 	124 ms 	0 KB
 
 #include <stdio.h>
 
@@ -16,7 +16,7 @@ int main()
 			if(max<temp) max=temp;
 			if(min>temp) min=temp;
 		}
-		printf("%d\n",max-min);		
+		printf("%d\n",max-min);
 	}
 	return 0;
 }
